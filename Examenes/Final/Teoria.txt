@@ -1,0 +1,31 @@
+
+TEORIA
+------------------------------
+El software se fabrica f o v
+Un sistema dejar de funcionar por mantenimiento f o v 
+
+Que es calidad de sofware
+Cuales son los pasos para prevención de fallos
+Que es git ya para que sirve
+De que se encarga la calidad interna  
+Que es el Spice y para que sirve
+Que es el Spice y para que sirve 
+Que es la fiabilidad del sofware
+
+
+Madurez
+....... es el que etapas organización de una empresa 
+Prevención de fallos en 2 etapas... 
+La es la característica más importante en tolerancia a fallos
+La madurez en la etapa ............................  sirve para para 
+Dinámica.... es para que el software sea reparado mientras hay 
+Mantenimiento 
+
+Términos 
+Madurez
+----------------------------
+PRACTICA 
+
+500 SOLICITUDES CON JMETER DE UNA PAGINA WEN EJ: USFX.BO
+grabar con SELENIUM una formulario web  
+ 

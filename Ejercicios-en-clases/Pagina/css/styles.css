@@ -1,0 +1,72 @@
+
+body {
+    font-family: Verdana, sans-serif;
+    margin: 20px;
+    border-collapse: collapse;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+.columna-puntaje{
+    text-align: center;
+}
+
+.columna-puntaje input {
+    background-color: #d3d3d3; 
+    border: 1px solid #797575; 
+    color: #424242; 
+    padding: 1px; 
+}
+
+th, td {
+    border: 2px solid #000000;
+    padding: 8px;
+    text-align: left;
+}
+
+th.encabezago-balck {
+    background-color: black;
+    color: white;
+    padding: 1px;
+    border: 1px solid black;
+    border-right: 2px solid white; /*a la derecha de palabra */
+}
+thead{
+
+    border: 3px solid black;
+}
+.for_academica {
+    background-color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+th {
+    background-color: #f2f2f2;
+}
+
+.categoria {
+    font-weight: bold;
+    background-color: #e0e0e0;
+}
+
+.botones {
+    text-align: center; 
+    margin-top: 20px; 
+}
+.button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+

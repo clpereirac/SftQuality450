@@ -1,0 +1,122 @@
+{
+  "id": "a64f88ca-e000-42e1-bc3d-9c587a4ac8e7",
+  "version": "2.0",
+  "name": "tutoriales",
+  "url": "http://localhost",
+  "tests": [{
+    "id": "f6b880e6-d3a3-4edc-b004-f7f496cfc7b8",
+    "name": "Untitled",
+    "commands": []
+  }, {
+    "id": "e65307d2-b03a-454f-afb7-fffeddf0833a",
+    "name": "RegistroAutomatico",
+    "commands": [{
+      "id": "6731063d-1e7b-4452-abca-eb6559680690",
+      "comment": "",
+      "command": "open",
+      "target": "/CalidadSofTwareCPC/Examenes/2do_parcial/inicio.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0121e91d-820b-4101-8100-b1d20cc17628",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x744",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8d1ceff7-b4d0-4ec3-af41-a508438c8477",
+      "comment": "",
+      "command": "click",
+      "target": "name=codigo",
+      "targets": [
+        ["name=codigo", "name"],
+        ["css=input:nth-child(2)", "css:finder"],
+        ["xpath=//input[@name='codigo']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a1ac7eb3-0dad-43e5-a598-3380258165a1",
+      "comment": "",
+      "command": "type",
+      "target": "name=codigo",
+      "targets": [
+        ["name=codigo", "name"],
+        ["css=input:nth-child(2)", "css:finder"],
+        ["xpath=//input[@name='codigo']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "10"
+    }, {
+      "id": "f18b7340-880e-4bfd-bfc0-41a3d309872b",
+      "comment": "",
+      "command": "click",
+      "target": "name=titulo",
+      "targets": [
+        ["name=titulo", "name"],
+        ["css=input:nth-child(6)", "css:finder"],
+        ["xpath=//input[@name='titulo']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c205c492-3bf9-4309-8ea6-500fd5171c52",
+      "comment": "",
+      "command": "type",
+      "target": "name=titulo",
+      "targets": [
+        ["name=titulo", "name"],
+        ["css=input:nth-child(6)", "css:finder"],
+        ["xpath=//input[@name='titulo']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "Cocina"
+    }, {
+      "id": "67e4fe91-db9e-4787-9479-638410f4d305",
+      "comment": "",
+      "command": "click",
+      "target": "name=expositor",
+      "targets": [
+        ["name=expositor", "name"],
+        ["css=input:nth-child(10)", "css:finder"],
+        ["xpath=//input[@name='expositor']", "xpath:attributes"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cccf869d-efa6-46eb-9773-cd963b4e6ff7",
+      "comment": "",
+      "command": "type",
+      "target": "name=expositor",
+      "targets": [
+        ["name=expositor", "name"],
+        ["css=input:nth-child(10)", "css:finder"],
+        ["xpath=//input[@name='expositor']", "xpath:attributes"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": "Claudia Pereira"
+    }, {
+      "id": "0eb4dbac-e771-4a42-9e3a-b5b97c717b2d",
+      "comment": "",
+      "command": "click",
+      "target": "css=input:nth-child(13)",
+      "targets": [
+        ["css=input:nth-child(13)", "css:finder"],
+        ["xpath=//input[@value='Registrar']", "xpath:attributes"],
+        ["xpath=//input[4]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "b42bed1b-7414-45dc-a8c9-1afc94dba753",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["f6b880e6-d3a3-4edc-b004-f7f496cfc7b8"]
+  }],
+  "urls": ["http://localhost/"],
+  "plugins": []
+}

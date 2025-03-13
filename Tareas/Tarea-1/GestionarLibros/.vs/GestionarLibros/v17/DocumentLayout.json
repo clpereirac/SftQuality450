@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\GestionarLibros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7646733-E38F-4FA4-B14F-697825365FF1}|GestionarLibros\\GestionarLibros.csproj|c:\\users\\pc\\desktop\\gestionarlibros\\gestionarlibros\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7646733-E38F-4FA4-B14F-697825365FF1}|GestionarLibros\\GestionarLibros.csproj|solutionrelative:gestionarlibros\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7646733-E38F-4FA4-B14F-697825365FF1}|GestionarLibros\\GestionarLibros.csproj|c:\\users\\pc\\desktop\\gestionarlibros\\gestionarlibros\\librostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7646733-E38F-4FA4-B14F-697825365FF1}|GestionarLibros\\GestionarLibros.csproj|solutionrelative:gestionarlibros\\librostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GestionarLibros\\GestionarLibros\\Libro.cs",
+              "RelativeDocumentMoniker": "GestionarLibros\\Libro.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GestionarLibros\\GestionarLibros\\Libro.cs",
+              "RelativeToolTip": "GestionarLibros\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:27:46.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrosTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GestionarLibros\\GestionarLibros\\LibrosTests.cs",
+              "RelativeDocumentMoniker": "GestionarLibros\\LibrosTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GestionarLibros\\GestionarLibros\\LibrosTests.cs",
+              "RelativeToolTip": "GestionarLibros\\LibrosTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:26:43.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
+  <hashTree>
+    <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Petición HTTP">
+      <stringProp name="HTTPSampler.domain">usfx.bo</stringProp>
+      <stringProp name="HTTPSampler.port">443</stringProp>
+      <stringProp name="HTTPSampler.protocol">HTTPS</stringProp>
+      <stringProp name="HTTPSampler.path">/comunicados/</stringProp>
+      <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+      <stringProp name="HTTPSampler.method">GET</stringProp>
+      <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+      <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+      <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="Variables definidas por el Usuario">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+    </HTTPSamplerProxy>
+    <hashTree/>
+  </hashTree>
+</jmeterTestPlan>

@@ -1,0 +1,118 @@
+{
+  "id": "363d3b70-dfe3-4e8a-9736-10aa6bdd7be0",
+  "version": "2.0",
+  "name": "RegistroPersonasTest",
+  "url": "http://localhost",
+  "tests": [{
+    "id": "7f677429-1a17-4ea8-9582-60a7c2ac29ec",
+    "name": "RegistroDePersonas",
+    "commands": [{
+      "id": "22e6dd24-4891-4a5b-a99e-b09b34d99f15",
+      "comment": "",
+      "command": "open",
+      "target": "/PersonaCPC/PersonaCPC/inicio.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7bc6d647-36e7-4ace-baee-3934112d6fa5",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x744",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6d1eaaaa-3405-4b06-8178-7ce1bf6e7f44",
+      "comment": "",
+      "command": "click",
+      "target": "name=id",
+      "targets": [
+        ["name=id", "name"],
+        ["css=form:nth-child(2) > input:nth-child(2)", "css:finder"],
+        ["xpath=//input[@name='id']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2310c94c-2442-448b-becf-e72bffa35a96",
+      "comment": "",
+      "command": "type",
+      "target": "name=id",
+      "targets": [
+        ["name=id", "name"],
+        ["css=form:nth-child(2) > input:nth-child(2)", "css:finder"],
+        ["xpath=//input[@name='id']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "2000"
+    }, {
+      "id": "79dc63ed-496e-42bd-ab79-c466e31464a1",
+      "comment": "",
+      "command": "click",
+      "target": "name=nombres",
+      "targets": [
+        ["name=nombres", "name"],
+        ["css=input:nth-child(6)", "css:finder"],
+        ["xpath=//input[@name='nombres']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b5375191-3b98-430e-8b73-9e5d0e72b7b7",
+      "comment": "",
+      "command": "type",
+      "target": "name=nombres",
+      "targets": [
+        ["name=nombres", "name"],
+        ["css=input:nth-child(6)", "css:finder"],
+        ["xpath=//input[@name='nombres']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "Juan Carlos "
+    }, {
+      "id": "86fffffc-db55-470e-b0f0-37ddff225582",
+      "comment": "",
+      "command": "click",
+      "target": "name=apellidos",
+      "targets": [
+        ["name=apellidos", "name"],
+        ["css=input:nth-child(10)", "css:finder"],
+        ["xpath=//input[@name='apellidos']", "xpath:attributes"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "999e0b9f-253d-49fc-b3ea-5d689cffe39a",
+      "comment": "",
+      "command": "type",
+      "target": "name=apellidos",
+      "targets": [
+        ["name=apellidos", "name"],
+        ["css=input:nth-child(10)", "css:finder"],
+        ["xpath=//input[@name='apellidos']", "xpath:attributes"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": "Padilla Martinez"
+    }, {
+      "id": "ca894c75-ce1c-4be5-be74-337ae6322468",
+      "comment": "",
+      "command": "click",
+      "target": "css=font > input",
+      "targets": [
+        ["css=font > input", "css:finder"],
+        ["xpath=//input[@value='Persona del registrador']", "xpath:attributes"],
+        ["xpath=//font/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "b8454c56-6628-4565-84fd-150a879abd50",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["7f677429-1a17-4ea8-9582-60a7c2ac29ec"]
+  }],
+  "urls": ["http://localhost/"],
+  "plugins": []
+}

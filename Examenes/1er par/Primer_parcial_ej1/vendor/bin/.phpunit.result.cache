@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\CirculoTest::testAreaCirculoConRadioPositivo":7,"Tests\\CirculoTest::testAreaCirculoConRadioCero":7},"times":{"Tests\\CirculoTest::testAreaCirculoConRadioPositivo":0.013,"Tests\\CirculoTest::testAreaCirculoConRadioCero":0.001}}

@@ -1,0 +1,63 @@
+TEORIA 
+
+f o v
+el problema de los errores de software se da por las especificaciones iniciales? f v
+los desarrolladores
+DREC sirve para crear requisitor de calidad de software? DREC
+
+
+
+Llena los espacios
+1. La prevencion de fallos se realiza en 2 etapas: ..Evitación de fallos... y  ...Eliminacion de fallos..
+2. ...Confiabilidad....es probablemente la más importante de las
+características inherentes en el concepto de "calidad del software".
+3. La tolerancia de fallos se basa en la ...redundancia...
+
+CDIR sirve para crear requisitor de calidad de software?
+
+cuales son los tipos de fallos?
+intermitentes
+permanentes
+transitorios
+
+que es fiabilidad 
+que es fiabilidad de software
+porque es importante los estandares de programacion en el software
+que es el cidr?
+cuales son los tipos de errores que existen
+que es jmeter? 
+que es el aseguramiento de la calidad de software?
+que es una averia?
+que es la redundancia dinamica?
+
+que es el modelo furps?
+El modelo **FURPS** es un marco utilizado en la ingeniería de software para clasificar y evaluar la calidad de los productos de software. FURPS es un acrónimo que representa cinco categorías de atributos de calidad y requisitos:
+
+- **F**: **Functionality (Funcionalidad)**: Se refiere a las capacidades y características que el software debe proporcionar. Incluye requisitos funcionales, como qué tareas debe realizar el sistema.
+
+- **U**: **Usability (Usabilidad)**: Abarca la facilidad de uso y la satisfacción del usuario al interactuar con el software. Esto incluye la interfaz de usuario, la documentación, y el aprendizaje.
+
+- **R**: **Reliability (Confiabilidad)**: Se refiere a la capacidad del software para funcionar de manera consistente y sin fallos durante un período de tiempo específico. Incluye aspectos como la disponibilidad y la tolerancia a fallos.
+
+- **P**: **Performance (Rendimiento)**: Abarca cómo se comporta el software bajo condiciones específicas, incluyendo tiempos de respuesta, uso de recursos y escalabilidad.
+
+- **S**: **Supportability (Mantenibilidad)**: Se refiere a la facilidad con la que el software puede ser mantenido, modificado y actualizado. Esto incluye la documentación, la modularidad y la capacidad de prueba.
+
+### Explicación de la Frase
+
+La frase menciona que el modelo FURPS incluye, además de los factores de calidad y atributos, **restricciones de diseño** y **requerimientos de implementación, físicos y de interfaz**. Esto se puede desglosar de la siguiente manera:
+
+1. **Restricciones de Diseño**:
+   - Se refiere a limitaciones que deben ser consideradas durante el proceso de desarrollo, como normas de codificación, estándares de la industria, o requisitos específicos de hardware o software.
+
+2. **Requerimientos de Implementación**:
+   - Incluyen detalles sobre cómo se implementará el software, tales como:
+     - **Requerimientos Físicos**: Especificaciones sobre el entorno físico en el que se desplegará el software, como el tipo de servidores, sistemas operativos, y hardware necesario.
+     - **Requerimientos de Interfaz**: Instrucciones sobre cómo el software interactuará con otros sistemas, incluyendo APIs, protocolos de comunicación y formatos de datos.
+
+### Resumen
+El modelo FURPS no solo se centra en los atributos de calidad del software, sino que también considera restricciones y requisitos adicionales que son críticos para el diseño y la implementación efectiva del sistema. Estos elementos aseguran que el software no solo cumpla con los requisitos de calidad, sino que también sea factible y eficiente en su entorno de operación.
+
+procesos,procedimientos, documentos, encuestas
+
+

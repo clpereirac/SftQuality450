@@ -1,0 +1,18 @@
+TEORIA
+
+Que es el esquare 
+Que es según la ISO 9126 
+Qué es calidad de uso segun la iso 9126
+Qué es calidad externa según la iso 9126
+Qué es calidad de software 
+Que es calidad
+Qué es la iso 9000
+Que es una métrica y para que sirve
+
+PRACTICA
+
+Hacer pruebas TDD
+Ejercicio 1
+Para el radio de un circulo probar con diferentes valores
+Ejercicio 2
+Para determinar si un numero es o no es primo con diferentes valores
